@@ -1,0 +1,6 @@
+{
+  "name": "Hello World",
+  "description": "An elegant, minimalist Hello World greeting application with smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
